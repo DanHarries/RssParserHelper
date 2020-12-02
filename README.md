@@ -1,3 +1,5 @@
+[![NuGet version (RssParserHelper.NetCore)](https://img.shields.io/badge/nuget-RssParserHelper.NetCore-blue)](https://www.nuget.org/packages/RssParserHelper.NetCore)
+
 # RssParserHelper.Net
 A simple library that will parse either a url or list of urls and return you an object of type Feed.
 
