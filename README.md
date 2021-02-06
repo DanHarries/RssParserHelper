@@ -14,7 +14,7 @@ var res = await RssParserHelper.GetParsedFeed(url);
 
 ```
 
-Or pass in an ``` IEnumberable<string> ``` of the url's
+Or pass in an ``` IEnumerable<string> ``` of the url's
 
 ```cs 
 
